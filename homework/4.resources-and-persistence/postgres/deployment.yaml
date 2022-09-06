@@ -24,7 +24,7 @@ spec:
 
             - name: POSTGRES_DB
               value: test_kuber
-
+            # Qq123456qQ@@
             - name: POSTGRES_PASSWORD
               valueFrom:
                 secretKeyRef:
